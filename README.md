@@ -8,7 +8,6 @@
 <p align="left">
   <img src="https://github-readme-stats.shion.dev/api?username=LeTuanHai-SVDHBD&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <br/>
-  <br/>
   <img src="https://streak-stats.demolab.com/?user=LeTuanHai-SVDHBD&theme=dark&hide_border=false" alt="GitHub Streak" />
   <br/>
   <br/>
