@@ -2,6 +2,7 @@
 🎓 Student at Binh Duong University <br>
 💻 Pursuit: Cybersecurity <br>
 🏙️ From: Dong Nai, Viet Nam
+📧 Email: 23050116@student.bdu.edu.vn
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=LeTuanHai-SVDHBD&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
