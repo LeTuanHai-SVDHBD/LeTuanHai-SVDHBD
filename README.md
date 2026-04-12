@@ -1,7 +1,7 @@
 # 🙂 Hi, My Name's Le Tuan Hai
 🎓 Student at Binh Duong University <br>
 💻 Pursuit: Cybersecurity <br>
-🏙️ From: Dong Nai, Viet Nam
+🏙️ From: Dong Nai, Viet Nam <br>
 📧 Email: 23050116@student.bdu.edu.vn
 
 # 📊 GitHub Stats:
