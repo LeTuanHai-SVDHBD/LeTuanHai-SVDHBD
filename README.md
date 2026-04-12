@@ -5,7 +5,7 @@
 📧 Email: 23050116@student.bdu.edu.vn
 
 # 📊 GitHub Stats:
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.shion.dev/api?username=LeTuanHai-SVDHBD&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <br/>
   <br/>
