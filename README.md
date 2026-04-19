@@ -68,7 +68,7 @@
 ### 🔧 OTHER
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 
-## 📜 Chứng chỉ & Giải thưởng
+## 📜 Certificates & Awards
 ### 🛡️ Google Cybersecurity Professional Certificate
 * **Foundations of Cybersecurity** <br> [![Badge Google](https://img.shields.io/badge/Google-Foundations%20of%20Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/W2RX8AF6W1KQ)
 * **Play It Safe: Manage Security Risks** <br> [![Badge Google](https://img.shields.io/badge/Google-Play%20It%20Safe-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/6XLAO3543L5X)
